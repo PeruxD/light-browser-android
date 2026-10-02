@@ -5,30 +5,57 @@ build/
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log/OS Files
+# Log/OS files
 *.log
+.DS_Store
 
 # Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+.classpath
+.c9/
+*.class
+*.dex
+*.ear
+*.jar
+*.rar
+*.war
+*.zip
+*.via
+*.zip
+*.tar.gz
+*.rar
+.cxx/
+local.properties
+.settings/
+*.idb
+*.aidl
+
+# User-specific configurations
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/codeStyles/
+.idea/inspectionProfiles/
+*.iml
+*.iws
+*.ipr
 
 # Keystore files
 *.jks
 *.keystore
+*.p12
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Gradle
+gradle-app.setting
+.gradle/
+gradle.properties
 
-# Android Profiling
-*.hprof
+# Kotlin
+kt_editor_temp.txt
+
+# Mac
+.DS_Store

@@ -1,0 +1,6 @@
+-keep class com.example.lightbrowser.** { *; }
+-keepclassmembers class com.example.lightbrowser.** { *; }
+-keep interface com.example.lightbrowser.** { *; }
+-dontwarn com.example.lightbrowser.**
+-keepattributes Signature
+-keepattributes *Annotation*

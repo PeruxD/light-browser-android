@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LightBrowser</string>
+    <string name="search_hint">Buscar o escribir URL</string>
+    <string name="go">Ir</string>
+    <string name="new_tab">Nueva pestaña</string>
+    <string name="reload">Recargar</string>
+    <string name="extensions">Extensiones</string>
+    <string name="add_extension">Añadir</string>
+</resources>
